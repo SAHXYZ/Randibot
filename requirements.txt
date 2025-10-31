@@ -1,3 +1,4 @@
+pyrofork
 aiofiles
 aiohttp
 beautifulsoup4
@@ -26,3 +27,4 @@ uvloop; sys_platform != "win32"
 yt-dlp
 youtube-search
 youtube-search-python
+
